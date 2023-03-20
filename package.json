@@ -1,6 +1,6 @@
 {
   "name": "@diariara/next-google-dfp",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "description": "Integrate Google DFP in next.js with ease. Forked from BlackBoxVision/next-google-dfp",
   "author": "JonatanSalas & Diariara",
   "homepage": "https://github.com/diariara/next-google-dfp#readme",
