@@ -1,9 +1,9 @@
 {
-  "name": "@blackbox-vision/next-google-dfp",
+  "name": "@diariara/next-google-dfp",
   "version": "0.2.7",
-  "description": "Integrate Google DFP in next.js with ease",
-  "author": "JonatanSalas <jonatan.salas@blackbox-vision.tech>",
-  "homepage": "https://github.com/BlackBoxVision/next-google-dfp#readme",
+  "description": "Integrate Google DFP in next.js with ease. Forked from BlackBoxVision/next-google-dfp",
+  "author": "JonatanSalas & Diariara",
+  "homepage": "https://github.com/diariara/next-google-dfp#readme",
   "license": "MIT",
   "scripts": {
     "clean": "rimraf pkg",
@@ -12,7 +12,7 @@
     "version": "npm run build"
   },
   "bugs": {
-    "url": "https://github.com/BlackBoxVision/next-google-dfp/issues"
+    "url": "https://github.com/diariara/next-google-dfp/issues"
   },
   "devDependencies": {
     "@babel/core": "^7.11.4",
